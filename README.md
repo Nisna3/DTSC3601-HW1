@@ -37,7 +37,7 @@ jupyter notebook eda_iris.ipynb
 ```
 
 
-<img width="1512" height="814" alt="Screenshot 2026-08-22 at 4 48 11 PM" src="https://github.com/user-attachments/assets/ea29f9b9-42a7-4162-8f7a-77c82132a5b6" />
+<img width="1512" height="769" alt="Screenshot 2026-08-23 at 7 00 57 PM" src="https://github.com/user-attachments/assets/821ffc42-dc60-45c4-ba50-3e0b02a1de27" />
 <img width="1508" height="807" alt="Screenshot 2026-08-22 at 4 48 21 PM" src="https://github.com/user-attachments/assets/fb6c4b99-b887-4e40-a5bd-c7d37989baa8" />
 <img width="1512" height="796" alt="Screenshot 2026-08-22 at 4 48 28 PM" src="https://github.com/user-attachments/assets/5187b5ed-9385-4bfe-86a8-28f7fdaff14c" />
 <img width="1486" height="795" alt="Screenshot 2026-08-22 at 4 48 32 PM" src="https://github.com/user-attachments/assets/3c58d876-95c7-47bd-a773-ef93ec289674" />
